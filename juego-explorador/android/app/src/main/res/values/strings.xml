@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">juego-explorador</string>
+    <string name="title_activity_main">juego-explorador</string>
+    <string name="package_name">com.angierincon.juegoexplorador</string>
+    <string name="custom_url_scheme">com.angierincon.juegoexplorador</string>
+</resources>
